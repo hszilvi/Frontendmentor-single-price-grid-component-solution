@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: ](https://github.com/hszilvi/Single-Price-Grid-Frontendmentor)
-- Live Site URL: (https://jolly-rabanadas-769ce7.netlify.app/)
+- Live Site URL: (https://dynamic-cajeta-f91101.netlify.app/)
 
 ## My process
 
